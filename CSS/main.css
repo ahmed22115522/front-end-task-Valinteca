@@ -30,6 +30,20 @@ a, a:hover {
         margin: 0 !important;
     }
 }
+@media screen and (max-width: 767px) {
+    .main-bg-home{
+        background: rgba(245, 247, 255, 0.85);
+        border-radius: 10px;
+        height: 100vh;
+        width: 100%;
+        text-align: center;
+    }
+    .container{
+        max-width: 767px;
+        padding: 0px !important;
+        margin: 0 !important;
+    }
+}
 img{
     overflow:auto !important;
 }
