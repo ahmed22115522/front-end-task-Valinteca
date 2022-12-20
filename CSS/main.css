@@ -13,7 +13,7 @@ a, a:hover {
     color: #fff;
 }
 
-.main-bg{
+.main-bg, .main-bg-home{
     background: rgba(245, 247, 255, 0.85);
     border-radius: 10px;
 }
